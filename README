@@ -4,6 +4,8 @@
 4. "\n"                     =  new line
 5. INSERT BUTTON            = if cursor ABNORMAL behaviour(big cursor/overwrites)
 
+ODD or Even:
+
 reg=int(input())
 if reg%2==0:
     print("it is an Even no.")
